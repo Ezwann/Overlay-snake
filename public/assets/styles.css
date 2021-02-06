@@ -1,0 +1,12 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 1080px;
+    width: 1920px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+body {
+    position: relative;
+}
